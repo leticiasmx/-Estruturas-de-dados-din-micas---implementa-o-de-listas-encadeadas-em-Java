@@ -2,7 +2,7 @@
 Este projeto implementa três tipos de listas encadeadas em Java, desenvolvido como trabalho acadêmico para a disciplina de Estrutura de Dados.
 
 # 🏗️ Estruturas Implementadas
-1. Lista Encadeada Simples
+# 1. Lista Encadeada Simples
 Características: Nós com ponteiro apenas para o próximo elemento
 
 # 2. Lista Duplamente Encadeada
